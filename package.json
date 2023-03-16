@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaborg/hexlet-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariaborg/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/mariaborg/hexlet-jest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
